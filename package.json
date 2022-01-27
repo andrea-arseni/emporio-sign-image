@@ -1,0 +1,22 @@
+{
+  "name": "emporio-sign-image",
+  "version": "1.0.0",
+  "description": "AWS Lambda per firmare un immagine con il proprio logo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrea-arseni/emporio-sign-image.git"
+  },
+  "author": "Andrea Arseni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrea-arseni/emporio-sign-image/issues"
+  },
+  "homepage": "https://github.com/andrea-arseni/emporio-sign-image#readme",
+  "dependencies": {
+    "sharp": "^0.29.3"
+  }
+}
